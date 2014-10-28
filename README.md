@@ -1,4 +1,4 @@
-<img src="http://workoutsondemand.com/wp/wp-content/uploads/stretching-dog.jpg">
+![img](http://workoutsondemand.com/wp/wp-content/uploads/stretching-dog.jpg)
 
 ##Project Euler
 
